@@ -2,6 +2,8 @@
 
 Bakery is a library of helper functions for creating [Cake.Frosting](https://cakebuild.net/docs/running-builds/runners/cake-frosting) build scripts.
 
+<img src="bakery.jpeg" style="max-width: 500px;"/>
+
 ## Repository structure
 
 - `/src`
